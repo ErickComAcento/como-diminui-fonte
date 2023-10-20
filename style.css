@@ -1,0 +1,42 @@
+body {
+  background: #000000;
+}
+
+h1 {
+  text-align: center;
+  font-size: 135px;
+  color: #ffffff
+}
+
+p {
+  color:#ffffff;
+  font-size: 55px;
+  text-align: center;
+  position: relative;
+  padding-left: 10px;
+  margin-right: -400px;
+}
+
+.um {
+  background: #1e1e1e;
+  padding: 3.8%;
+}
+
+.dois { 
+  background-color: #2e2e2e;
+  padding: 3.8%;
+  font-size: 10px;
+}
+
+.tres {
+  background-color: #1e1e1e;
+  padding: 8%;
+  overflow: hidden;
+}
+
+.quatro {
+  display: flex;
+  align-items: 300px 200px 200px;
+  background-color: #2e2e2e;
+  padding: 17%;  
+}
