@@ -10,11 +10,17 @@ h1 {
 
 p {
   color:#ffffff;
-  font-size: 55px;
+  font-size: 70px;
   text-align: center;
   position: relative;
-  padding-left: 10px;
-  margin-right: -400px;
+  padding-left: 2px;
+  margin-right: -430px;
+}
+
+button {
+  position: absolute;
+  right: 20px;
+  top: 20px;
 }
 
 .um {
@@ -30,13 +36,33 @@ p {
 
 .tres {
   background-color: #1e1e1e;
-  padding: 8%;
+  padding: 13%;
   overflow: hidden;
 }
 
 .quatro {
   display: flex;
-  align-items: 300px 200px 200px;
+  align-items: 300px 300px 300px;
   background-color: #2e2e2e;
-  padding: 17%;  
+  padding: 13%;  
+}
+
+.divsclaro {
+background-color: #c2c7d1;
+}
+
+.divsdoisclaro {
+  background-color: #dcdfe4;
+}
+
+.h1claro {
+  color: #000000
+}
+
+.pclaro {
+  color:#000000
+}
+
+.bodyclaro {
+  background: #ffffff;
 }
